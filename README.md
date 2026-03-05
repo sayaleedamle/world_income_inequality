@@ -1,4 +1,4 @@
-# world_income_inequality
+# Analysing World Income Inequality
 This is a group project.
 
 It analyses the GDP for different regions and countries.
